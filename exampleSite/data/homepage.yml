@@ -37,9 +37,9 @@ product:
   enable: true
   section: Products
   title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  content: See the innovation that has come through the FinanceGate. Our goal is to
+    continuously find areas to help business push forward. Web3, market insights,
+    finance modelling, marketing are just some of the services we provide to our customers.
   product_item:
   - title: "/know your value"
     image: images/product1.png
