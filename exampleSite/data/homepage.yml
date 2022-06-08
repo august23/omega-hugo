@@ -43,8 +43,10 @@ product:
   product_item:
   - title: "/know your value"
     image: images/product1.png
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: We provide personal support from 30+ years of experience from serial
+      entrepreneurs during your entire journey to success. Prepare your storytelling,
+      market research, reach out to VCs, build your confidence and your presentation.
+      Your are ready for your pitch!
     project_url: "#contact"
   - title: "/design your value"
     image: images/product2.png
@@ -53,7 +55,7 @@ product:
       model, dApps, Smart Contracts and present this in a white-paper. '
     project_url: "#"
   - title: "/show your value"
-    image: images/product3.png
+    image: "/images/product3.png"
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
     project_url: "#"
