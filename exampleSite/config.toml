@@ -29,7 +29,7 @@ author = "Themefisher"
 contact_info = "Pariser Platz<br>10117 Berlin, <br>Germany"
 description = "This is meta description"
 logo = "/images/logo-1.png"
-logo_width = "160px"
+logo_width = "190px"
 preloader = true
 [params.cookies]
 enable = true
