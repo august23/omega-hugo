@@ -10,7 +10,7 @@ banner:
     link: "#products"
 mission:
   enable: true
-  title: Propel Advancement
+  title: "/create value"
   section: MISSION
   content: Introducing the world’s first Advancement Company. As we enter the dawn
     of the digital age a significant leap must be made to propel the world into the
@@ -41,17 +41,18 @@ product:
     company, the goal is to continuously find areas to help business push forward.
     Below you can find the first product available to help you do so.
   product_item:
-  - title: Ecosystem
+  - title: "/know your value"
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
     project_url: "#contact"
-  - title: Objects
+  - title: "/design your value"
     image: images/product/product-02.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
+    content: 'Startups within web3 space are overcoming outdated paradigms and challenging
+      existing industry players. Our web3 services help you design your tokenomics
+      model, dApps, Smart Contracts and present this in a white-paper. '
     project_url: "#"
-  - title: Publisher
+  - title: "/show your value"
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
       See how this revolutionarys oftware can become the center of your business.
