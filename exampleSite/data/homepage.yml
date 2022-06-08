@@ -64,9 +64,8 @@ contact:
   section: CONTACT US
   title: we are here for you
   image: images/map-bg.jpg
-  content: The dawn of the digital age and the need for a significant leap forward
-    is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how FinanceGate
+  content: We believe that every business has the opportunity to move into this new
+    age with the right mindset. Contact us today to begin understanding how FinanceGate
     can propel your business.
 call_to_action:
   enable: true
