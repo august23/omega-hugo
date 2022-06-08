@@ -26,7 +26,7 @@ url = "contact"
 weight = 5
 [params]
 author = "Themefisher"
-contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
+contact_info = "Pariser Platz<br>10117 Berlin, <br>Germany"
 description = "This is meta description"
 logo = "/images/logo-1.png"
 logo_width = "120px"
