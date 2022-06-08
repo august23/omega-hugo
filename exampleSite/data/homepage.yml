@@ -23,16 +23,15 @@ vision:
   vision_item:
   - title: People First
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
-  - title: Employee Culture
+    content: 'People are in our focus. Clients, customers, colleagues. <br>This is
+      a place where people come first. '
+  - title: Innovation Culture
     image: images/vision/vision-02.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
-  - title: The Omega Way
+    content: For today, for tomorrow. Innovations power our lives. <br>We enable innovation.
+  - title: The FinanceGate
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: We started the company on a vision of creating an atmosphere where people
+      can find equal minded people. <br>Where ideas come to life.
 product:
   enable: true
   section: Products
