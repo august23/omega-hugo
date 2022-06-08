@@ -71,7 +71,6 @@ contact:
     can propel your business.
 call_to_action:
   enable: true
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
-  button_label: Apply Now
-  button_link: career
+  title: Join the FinanceGate family. <br>Click below to get in contact today!
+  button_label: Contact Us
+  button_link: angelo@financegate.xyz
