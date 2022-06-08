@@ -71,4 +71,4 @@ call_to_action:
   enable: true
   title: Join the FinanceGate family. <br>Click below to get in contact today!
   button_label: Contact Us
-  button_link: angelo@financegate.xyz
+  button_link: mailto:angelo@financegate.xyz
