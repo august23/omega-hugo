@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Advancement is FinanceGate
   content: Elevate your Start-up to win in a hyper-competitive market.
-  image: images/hero-image/hero-slider-01.jpg
+  image: images/hero-slider-01-1.jpg
   button:
     enable: true
     label: WHAT WE DO
