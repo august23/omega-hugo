@@ -15,7 +15,7 @@ mission:
   content: Introducing the world’s first Advancement Company. As we enter the dawn
     of the digital age a significant leap must be made to propel the world into the
     age of advancement.
-  iamge: images/video-thumb-1.jpg
+  image: images/video-thumb-1.jpg
 vision:
   enable: true
   section: VISION
