@@ -18,12 +18,6 @@
       alt="follow on Twitter"></a>
 </p>
 
----
-
-<p align="center"><img src="https://demo.gethugothemes.com/thumbnails/omega.webp" alt="screenshot" width="100%">
-</p>
-
----
 ## Features
 - Dark mode available
 - Google analytics  support
