@@ -32,7 +32,7 @@ logo = "/images/logo-1.png"
 logo_width = "190px"
 preloader = true
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
 [params.map]
 enable = true
