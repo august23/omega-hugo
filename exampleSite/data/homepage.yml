@@ -57,8 +57,7 @@ product:
   - title: "/show your value"
     image: "/images/product3.png"
     content: Startup full potential is often unrealised. We co-create your marketing
-      strategy, showcase the creative journey and achieve outstanding digital reach,
-      so you can shout the world how much you're worth!
+      strategy, showcase the creative journey and achieve outstanding digital reach.
     project_url: mailto:info@financegate.xyz
 contact:
   enable: true
