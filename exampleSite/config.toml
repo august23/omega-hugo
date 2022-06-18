@@ -27,7 +27,7 @@ weight = 5
 [params]
 author = "Themefisher"
 contact_info = "Pariser Platz<br>10117 Berlin, <br>Germany"
-description = "This is meta description"
+description = "Consulting, financial advisory, VC funding"
 logo = "/images/logo-1.png"
 logo_width = "190px"
 preloader = true
@@ -36,7 +36,7 @@ enable = false
 expire_days = 2
 [params.map]
 enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCC72vZw-6tGqFyRhhg5CkF2fqfILn2Tsw"
+gmap_api = ""
 map_center_lat = "52.4811096"
 map_center_lng = "12.8498906"
 map_marker = "images/map-marker.png"
