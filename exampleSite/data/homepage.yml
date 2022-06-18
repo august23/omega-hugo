@@ -71,6 +71,7 @@ contact:
     can propel your business.
 call_to_action:
   enable: true
-  title: Join the FinanceGate family. <br>Click below to get in contact today!
+  title: Are you ready to walk through the FinanceGate? <br>Click below to get in
+    touch!
   button_label: Contact Us
   button_link: mailto:angelo@financegate.xyz
