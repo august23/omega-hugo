@@ -2,8 +2,8 @@
 banner:
   enable: true
   title: Open the gates <br>of finance. Now.
-  content: Whether your company needs consulting, financial advisory, coaching or
-    VC funding we are here to provide you solutions to win in a hyper-competitive
+  content: Whether your company needs consulting, <br>financial advisory, coaching
+    or VC funding <br>we are here to provide <br>you solutions to win in a <br>hyper-competitive
     market.
   image: images/hero-slider-01-1.jpg
   button:
