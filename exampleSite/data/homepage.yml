@@ -1,8 +1,10 @@
 ---
 banner:
   enable: true
-  title: Advancement is FinanceGate
-  content: Elevate your Start-up to win in a hyper-competitive market.
+  title: Open the gates of finance. Now.
+  content: Whether your company needs consulting, financial advisory, coaching or
+    VC funding we are here to provide you solutions to win in a hyper-competitive
+    market.
   image: images/hero-slider-01-1.jpg
   button:
     enable: true
@@ -12,11 +14,11 @@ mission:
   enable: true
   title: create value
   section: MISSION
-  content: We are FinanceGate! The world’s first Advancement Company. As we enter
-    the dawn of the Web3 age we aim to be the company that ushers the emerging startups
-    to the market.
+  content: |-
+    Elevate your venture! We match VC and innovative projects, providing fertile ground to innovative winning opportunities to nourish and mature.
+    As we enter the dawn of the web3 age we aim to be the company that ushers the emerging technologies and business models to the market. 
   video_thumb: images/video-thumb-1.jpg
-  video_id: ResipmZmpDU
+  video_id: dM8DAIAx124
 vision:
   enable: true
   section: VISION
