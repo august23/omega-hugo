@@ -56,9 +56,9 @@ product:
     project_url: mailto:info@financegate.xyz
   - title: "/show your value"
     image: "/images/product3.png"
-    content: Startup full potential is often obscured and unrealised. We co-create
-      your new marketing strategy, showcase the creative journey and achieve outstanding
-      digital reach, so you can shout the entire world how much your idea is worth!
+    content: Startup full potential is often unrealised. We co-create your new marketing
+      strategy, showcase the creative journey and achieve outstanding digital reach,
+      so you can shout the world how much your idea is worth!
     project_url: mailto:info@financegate.xyz
 contact:
   enable: true
