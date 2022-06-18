@@ -42,11 +42,11 @@ product:
     continuously find areas to help business push forward. Web3, market insights,
     finance modelling, marketing are just some of the services we provide to our customers.
   product_item:
-  - title: "/know your value"
-    image: images/product1.png
-    content: Interested in 1:1 coaching from serial entrepreneurs with 30+ years of
-      experience? We prepare your storytelling, market research, reach out to VCs,
-      build your confidence and pitch.
+  - title: "/design your value"
+    image: images/product2.png
+    content: Startups are overcoming outdated paradigms and challenging existing players.
+      We will unleash your disrupting value, monetize untapped revenue sources and  quantify
+      your real worth.
     project_url: mailto:info@financegate.xyz
   - title: "/tokenize your value"
     image: images/tokenomics.png
@@ -54,11 +54,11 @@ product:
       superpowers, we can create a business model, tokenomics model, smart contracts
       and present all on white-paper.
     project_url: mailto:info@financegate.xyz
-  - title: "/design your value"
-    image: images/product2.png
-    content: Startups are overcoming outdated paradigms and challenging existing players.
-      We will unleash your disrupting value, monetize untapped revenue sources and  quantify
-      your real worth.
+  - title: "/know your value"
+    image: images/product1.png
+    content: Interested in 1:1 coaching from serial entrepreneurs with 30+ years of
+      experience? We prepare your storytelling, market research, reach out to VCs,
+      build your confidence and pitch.
     project_url: mailto:info@financegate.xyz
   - title: "/show your value"
     image: "/images/product3.png"
