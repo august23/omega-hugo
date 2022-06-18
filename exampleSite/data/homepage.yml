@@ -48,19 +48,19 @@ product:
       entrepreneurs during your entire journey to success. Prepare your storytelling,
       market research, reach out to VCs, build your confidence and your presentation.
       Your are ready for your pitch!
-    project_url: mailto:angelo@financegate.xyz
+    project_url: mailto:info@financegate.xyz
   - title: "/design your value"
     image: images/product2.png
     content: 'Startups within web3 space are overcoming outdated paradigms and challenging
       existing industry players. We help you design your tokenomics model, dApps,
       Smart Contracts and present this in a white-paper. '
-    project_url: mailto:angelo@financegate.xyz
+    project_url: mailto:info@financegate.xyz
   - title: "/show your value"
     image: "/images/product3.png"
     content: Startup full potential is often obscured and unrealised. We co-create
       your new marketing strategy, showcase the creative journey and achieve outstanding
       digital reach, so you can shout the entire world how much your idea is worth!
-    project_url: mailto:angelo@financegate.xyz
+    project_url: mailto:info@financegate.xyz
 contact:
   enable: true
   section: CONTACT US
