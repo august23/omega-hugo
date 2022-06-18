@@ -44,13 +44,9 @@ map_position_lat = "52.5164270"
 map_position_lng = "13.3778211"
 [[params.social]]
 icon = "fa-twitter"
-link = "#"
+link = "https://twitter.com/financegateDAO"
 title = "twitter"
 [[params.social]]
 icon = "fa-instagram"
 link = "#"
 title = "instagram"
-[[params.social]]
-icon = "fa-linkedin"
-link = "#"
-title = "linkedin"
